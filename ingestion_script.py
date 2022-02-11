@@ -1,6 +1,6 @@
 # Time spent: 90 min
 import json
-from classes import Dataset
+from models import Dataset
 
 
 def read_data_file(filename: str) -> list:
